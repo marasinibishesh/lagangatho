@@ -34,7 +34,7 @@
 ### 📱 Frontend (React Native)
 
 ```bash
-git clone https://github.com/your-repo/lagan-gatto.git
-cd lagan-gatto/frontend
+git clone https://github.com/your-repo/lagangatho.git
+cd lagangatho/lagangathofinal
 npm install
 npm start
